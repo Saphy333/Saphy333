@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA3L3Jhd3BpeGVsX29mZmljZV81Ml9hX21pbmltYWxfYW5kX2xlc3NfZGV0YWlsX2lsbHVzdHJhdGlvbl9vZl93b19hMTQwZDZjNS01MWJiLTQ0MWUtODBhYS03ZDE5YTFmNzM2YjMtYmFubmVyLW1kMnhoMXB1LmpwZw.jpg"  />
-</div>
-
-###
