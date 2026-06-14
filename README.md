@@ -1,8 +1,8 @@
-<h1 align="left">🌸Hello</h1>
+<h1 align="left">🌸Hey everybody!</h1>
 
 ###
 
-<p align="left">My name is Saphy and I'm a second-year Applied Information Technology student 👩🏽‍💻, from the University of Luxembourg 🇱🇺.</p>
+<p align="left">My name is Saphy and I'm a second-year IT student 👩🏽‍💻, at the University of Luxembourg 🇱🇺.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages I use</h2>
 
 ###
 
@@ -43,4 +43,10 @@
   </a>
 </div>
 
+###
+
+<h2 align="left">My LeetCode</h2>
+
+###
+![LeetCode Stats](https://leetcard.jacoblin.cool/Saphy333?theme=nord&font=Raleway)
 ###
